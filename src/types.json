@@ -1,34 +1,34 @@
 {
   "feat": {
-    "description": "一个新功能",
+    "description": "🌟一个新功能",
     "title": "Features"
   },
   "fix": {
-    "description": "一个bug",
+    "description": "🐛一个bug",
     "title": "Bug Fixes"
   },
   "docs": {
-    "description": "文档增删改",
+    "description": "📚文档增删改",
     "title": "Documentation"
   },
   "style": {
-    "description": "样式修改(空白、格式、缺少分号等)",
+    "description": "🚣‍样式修改(空白、格式、缺少分号等)",
     "title": "Styles"
   },
   "refactor": {
-    "description": "既不修复bug也不添加新功能的更改",
+    "description": "🈚️既不修复bug也不添加新功能的更改",
     "title": "Code Refactoring"
   },
   "perf": {
-    "description": "性能优化",
+    "description": "🫦性能优化",
     "title": "Performance Improvements"
   },
   "test": {
-    "description": "增加测试",
+    "description": "🚨增加测试",
     "title": "Tests"
   },
   "build": {
-    "description": "影响构建系统或外部依赖项的更改(示例范围:gulp、broccoli、npm)",
+    "description": "🥡影响构建系统或外部依赖项的更改(示例范围:gulp、broccoli、npm)",
     "title": "Builds"
   },
   "ci": {
